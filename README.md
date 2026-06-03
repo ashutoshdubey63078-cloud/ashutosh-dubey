@@ -14,7 +14,7 @@
 - 🔭 Currently working on **Titanic Data Analysis & Netflix Movie Analytics**
 - 🌱 Learning **Advanced Machine Learning, Power BI & SQL**
 - 💡 I love turning raw data into meaningful insights
-- 🎯 Looking for **Data Analyst roles**
+- 🎯 Looking for **Data Scientist roles**
 - 📍 Based in **Lucknow, India**
 - 📫 Reach me at: **ashutoshdubey63078@gmail.com**
 
