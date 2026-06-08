@@ -3,7 +3,7 @@
 <h3 align="center">🎯 Aspiring Data science | B.Tech Graduate | Python & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+Developer;Machine+Learning+Enthusiast;Turning+Data+into+Insights+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+science+%7C+Python+Developer;Machine+Learning+Enthusiast;Turning+Data+into+Insights+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
