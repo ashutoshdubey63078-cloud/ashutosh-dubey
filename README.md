@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.Tech Graduate** passionate about Data Analytics & Machine Learning
+- 🎓 **B.Tech Graduate** passionate about Data science & Machine Learning
 - 🔭 Currently working on **Titanic Data Analysis & Netflix Movie Analytics**
 - 🌱 Learning **Advanced Machine Learning, Power BI & SQL**
 - 💡 I love turning raw data into meaningful insights
@@ -41,8 +41,8 @@
 
 ## 📊 Featured Projects
 
-### 🚢 [Titanic Data Analysis](https://github.com/ashutoshdubey63078-cloud/titanic-analysis)
-> Exploratory Data Analysis on the Titanic dataset to uncover survival patterns
+### 🚢 [Titanic Data analysis](https://github.com/ashutoshdubey63078-cloud/titanic-analysis)
+> Exploratory Data science on the Titanic dataset to uncover survival patterns
 
 - 📌 **Tech:** Python, Pandas, Matplotlib, Seaborn
 - 📈 Analyzed survival rates by gender, age, class & fare
